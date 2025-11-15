@@ -1,8 +1,4 @@
-# AIDD-30-Day-Challenge-Task-1
-
 # 🧠 AIDD 30-Day Challenge — Task 1
-# 📅 Class Slot: Friday — 6:00 PM to 9:00 PM
-# 👨‍🏫 Instructor: Sir Hamzah Syed
 
 # What does AI-Driven Development mean to you?
 To me, AI-Driven Development means building software together with the help of Artificial Intelligence. In the past, we used to work alone writing code, searching for solutions, fixing errors, and managing deployment by ourselves. This process often took many weeks to complete even a single project.
