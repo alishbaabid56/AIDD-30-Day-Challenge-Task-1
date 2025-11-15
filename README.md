@@ -10,35 +10,35 @@ Overall, I see the future of AI as very helpful and promising for developers. AI
 
 # 🧠 Self-Test (MCQs)
 
-# What is the main purpose of the AI-Native Era?
+What is the main purpose of the AI-Native Era?
 a) Replace developers
 b) Empower developers through AI tools
 c) Eliminate coding
 d) Automate testing
 Correct Answer: B
 
-# What defines an AI-driven developer?
+What defines an AI-driven developer?
 a) Writes only syntax
 b) Creates context-aware prompts
 c) Avoids tools
 d) Works offline
 Correct Answer: B
 
-# What does “AIDD” stand for?
+What does “AIDD” stand for?
 a) AI-Integrated Data Design
 b) AI-Driven Development
 c) Automated IDE Deployment
 d) Adaptive Input Debugger
 Correct Answer: B
 
-# What is the focus of Evaluation-Driven Development (EvDD)?
+What is the focus of Evaluation-Driven Development (EvDD)?
 a) Manual coding
 b) Evaluating and improving AI outputs
 c) UI design
 d) Testing only
 Correct Answer: B
 
-# What should developers focus on in the AI era?
+What should developers focus on in the AI era?
 a) Syntax only
 b) Building reasoning + evaluation skills
 c) Avoiding AI tools
